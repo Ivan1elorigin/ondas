@@ -19,3 +19,8 @@ config.json
 logs/
 
 *.ipynb
+
+*.mp4
+*.gif
+*.txt
+
